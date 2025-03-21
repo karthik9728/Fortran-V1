@@ -16,7 +16,7 @@ program variables
     age = 20
     PI = 3.14
     initial = 'P'
-    name ='Karthik bnreiogbiorwegnioewngioewn'
+    name ='Karthik'
     message = "Let's Learn World's 1st Programming Language"
     isOkay = .true.
 
