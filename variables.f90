@@ -21,7 +21,9 @@ program variables
     isOkay = .true.
 
     print *,'Age is',age
+    print "(A, I0)",'Age is ',age
     print *,'PI value is',PI
+    ! print "(A, F0.10)",'PI value is ',PI
     print *,'Initial: ',initial
     print *,'Name: ',name
     print *,'Message: ',message
