@@ -6,7 +6,7 @@ program variables
     real ::PI
     character ::initial
     character(len=15):: name
-    character(:), allocatable :: message
+    character(:), allocatable :: message !if the string length is unknown in advance, use an allocatable character string
     logical :: isOkay
 
     ! Initialize variable
