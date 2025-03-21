@@ -31,4 +31,7 @@ program variables
     ! Modern Fortran formatted output
     ! write(*, '(A, I0)') 'Age is ', age
 
+    ! Deallocate message after use
+    deallocate(message)
+
 end program variables
