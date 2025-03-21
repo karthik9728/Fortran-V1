@@ -20,8 +20,6 @@ program variables
     message = "Let's Learn World's 1st Programming Language"
     isOkay = .true.
 
-
-
     print *,'Age is',age
     print *,'PI value is',PI
     print *,'Initial: ',initial
